@@ -59,7 +59,7 @@ let parameters = [
     "data": ["a": "b"]
 ]
 
-PYHTTP.POST("http://120.76.72.127:60011/api/webpos/common/login.do", parameters: parameters, completionHandler: {
+PYHTTP.POST("api url", parameters: parameters, completionHandler: {
     response in
     // TODO
 })
