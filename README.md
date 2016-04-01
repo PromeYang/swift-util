@@ -13,6 +13,15 @@ swift封装常用工具库
 使用方式
 
 ```
+
+PYHTTP.Request
+* url
+* parameters
+* method
+* sync
+* completionHandler
+
 完整调用
-PYHTTP.Request(<#T##url: String##String#>, parameters: <#T##[String : AnyObject]?#>, method: <#T##Method?#>, sync: <#T##Bool?#>, completionHandler: <#T##((response: PYRESPONSE) -> Void)?##((response: PYRESPONSE) -> Void)?##(response: PYRESPONSE) -> Void#>)
+
+
 ```
