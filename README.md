@@ -4,6 +4,8 @@ swift封装常用工具库
 
 ## PYHTTP
 
+使用 PYNetWorking.swift
+
 * 封装了简单的请求发送和回调处理的方式 
 * 提供了完整的请求方法`request`
 * 提供了简单的请求方法`GET` 和 `POST`
